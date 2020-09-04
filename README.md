@@ -21,7 +21,7 @@ Fast and stable with laravel php artisan serve.
 
 ## A freatures : 
 
-![Free download source code Laravel pos](/img/Screenshot_2020-05-27%20INVOICE%20ONLINE.png)
+![Free download source code Laravel pos](/img/Screenshot_2020-05-27%20Z%20POS%20Web%20Apps.png)
 
 Login with username and password , by default user name : admin@admin.com , password : 12345678
 
