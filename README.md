@@ -25,35 +25,35 @@ Fast and stable with laravel php artisan serve.
 
 Login with username and password , by default user name : admin@admin.com , password : 12345678
 
-![Free download source code Laravel pos](https://mesinkasir.github.io/larapos/img/Screenshot_2020-05-27 INVOICE ONLINE.png)
+![Free download source code Laravel pos](https://github.com/mesinkasir/larapos/blob/master/img/Screenshot_2020-05-27 INVOICE ONLINE.png)
 
 Home page menu.
 
-![Free download source code Laravel pos](https://mesinkasir.github.io/larapos/img/Screenshotsa_2020-05-27 INVOICE ONLINE.png)
+![Free download source code Laravel pos](https://github.com/mesinkasir/larapos/blob/master/img/Screenshotsa_2020-05-27 INVOICE ONLINE.png)
 
 User databased for create and register user account.
 
-![Free download source code Laravel pos](https://mesinkasir.github.io/larapos/img/Screenshot_2020-05-27 INVOICE ONLINE(1).png)
+![Free download source code Laravel pos](https://github.com/mesinkasir/larapos/blob/master/img/Screenshot_2020-05-27 INVOICE ONLINE(1).png)
 
 Customer databased for register customer.
 
-![Free download source code Laravel pos](https://mesinkasir.github.io/larapos/img/Screenshot_2020-05-27 INVOICE ONLINE(2).png)
+![Free download source code Laravel pos](https://github.com/mesinkasir/larapos/blob/master/img/Screenshot_2020-05-27 INVOICE ONLINE(2).png)
 
 Product group and categories.
 
-![Free download source code Laravel pos](https://mesinkasir.github.io/larapos/img/Screenshot_2020-05-27 INVOICE ONLINE(3).png)
+![Free download source code Laravel pos](https://github.com/mesinkasir/larapos/blob/master/img/Screenshot_2020-05-27 INVOICE ONLINE(3).png)
 
 Master Product databased.
 
-![Free download source code Laravel pos](https://mesinkasir.github.io/larapos/img/Screenshot_2020-05-27 INVOICE ONLINE(5).png)
+![Free download source code Laravel pos](https://github.com/mesinkasir/larapos/blob/master/img/Screenshot_2020-05-27 INVOICE ONLINE(5).png)
 
 Point of sale transaction.
 
-![Free download source code Laravel pos](https://mesinkasir.github.io/larapos/img/Screenshot_2020-05-27 INVOICE ONLINE(7).png)
+![Free download source code Laravel pos](https://github.com/mesinkasir/larapos/blob/master/img/Screenshot_2020-05-27 INVOICE ONLINE(7).png)
 
 Print invoice with letter format or you can print with receipt print, you can print with two print out method with you needed.
 
-![Free download source code Laravel pos](https://mesinkasir.github.io/larapos/img/Screenshot_2020-05-27 INVOICE ONLINE(6).png)
+![Free download source code Laravel pos](https://github.com/mesinkasir/larapos/blob/master/img/Screenshot_2020-05-27 INVOICE ONLINE(6).png)
 
 Report detailed for check transaction, and you can export report detailed.
 
