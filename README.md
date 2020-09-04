@@ -81,7 +81,7 @@ Download this apps, or clone/fork it
 
 ### Option 1: 
 
-git clone 
+git clone https://github.com/mesinkasir/larapos.git
 
 now on your project folder , right click and select git bash here.
 
