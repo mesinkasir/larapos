@@ -59,7 +59,7 @@ Report detailed for check transaction, and you can export report detailed.
 
 ----------------------------------------------------------------------------------------------
 
-## How to install ?? [Cek video installation →](https://www.youtube.com/c/bakoelraksupermarketMesinKasir/videos)
+## How to install ?? [Cek video installation →](https://youtu.be/V6xW1EEwLcs)
 
 For first you need download third party apps for using laravel point of sale with invoice system.
 
