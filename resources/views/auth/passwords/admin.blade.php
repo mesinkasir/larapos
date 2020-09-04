@@ -1,0 +1,1 @@
+<div class="main-footer no-print text-left fixed-bottom float-left">Z-invoice presente by <a href="https://mesinkasironline.web.app">mesinkasironline.web.app</a></div>

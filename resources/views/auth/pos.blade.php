@@ -1,0 +1,1 @@
+<div class="main-footer no-print text-right fixed-bottom float-right"><small>Get Update : <a href="https://www.youtube.com/channel/UCIBWTgOXH5oa2YlbfpO7QLQ/videos">Youtube</a> / <a href="https://www.hockeycomputindo.com">Blog</a> / <a href="https://mesinkasir.asia">Website</a></small></div>

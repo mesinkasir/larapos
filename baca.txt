@@ -1,0 +1,61 @@
+DOWNLOAD LARAVEL INVOICE POS
+
+For first we on your terminal need third party installation
++ xampp
+https://www.apachefriends.org/download.html
+
++ composer
+https://getcomposer.org/download/
+
++git bash
+https://git-scm.com/downloads
+
+Run all third party apps, and run xampp
+
+open on localhost/phpmyadmin
+and create new databased mysql, name it with lapos
+
+
+now download laravel invoice pos
+
+prorgress installation and download
+1. sourceforge
+2. github
+
+from sourceforge
+download from sourceforge
+
+
+open and extract zip download folder to your project  folder
+
+now back to localhost/phpmyadmin select your database lapos
+and click import - import databased zinvoice.sql if you need database with demo
+or zinvoice - empytdb.sql if you need empty databased.
+after import database now you can back to project folder, 
+right click and select git bash here. run comand
+composer install && php artisan key:generate && php artisan serve
+
+
+from github clone / fork
+
+open project folder and right click - select git bash here
+and run :
+composer install && php artisan migrate && php artisan db:seed && php artisan key:generate && php artisan serve
+
+
+Get Started :
+visit localhost:8000 on web browser.
+now you can view a laravel point of sale with invoice system web apps , just click on get started button and login to apps.
+
+by default login
+email : admin@admin.com
+pass : 12345678
+
+Features :
+User databased for create update and delete user CRUD
+Customer databased can create update and delete customer CRUD
+Categories product for grouping your product with features create update and delete catgeories CRUD
+Product for create and register your product with features create update and delete product CRUD
+POS kios : for using cashier transaction on point of sale display.
+You can print out receipt print or invoice print format.
+Report for see all report detailed, and export report to see all transaction in one day.
