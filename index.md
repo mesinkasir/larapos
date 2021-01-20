@@ -1,37 +1,120 @@
-## Welcome to GitHub Pages
+![Free laravel point of sale pos download](https://1.bp.blogspot.com/-G5gASdD5He8/Xt4Ct4Au9qI/AAAAAAAAJ5A/ab3TbJB9ESIm4gQLWdbyd3ihfnxgAc70gCK4BGAsYHg/s1200/kasir%2Binvoice%2Bonline%2Bweb%2Bapp.jpg)
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/larapos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# LARAVEL POS WITH INVOICE Z-INVOICE APPS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Artisan php apps with point of sale management and invoice features. with [laravel](https://laravel.com)
 
-### Markdown
+![Free laravel point of sale pos download](https://1.bp.blogspot.com/-e-bpBfO1Auo/Xt4CtfTVBQI/AAAAAAAAJ48/devpdRdDYeEmFoupaglHSaQXBbIuEeU0QCK4BGAsYHg/s1000/app%2Btoko%2Bkasir%2Binvoice%2Bonline.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Complete with modern UI , Free download and Open source code.
 
-```markdown
-Syntax highlighted code block
+![Mobile Apps](https://1.bp.blogspot.com/-VFexNgv0VpQ/Xt4CurpWzOI/AAAAAAAAJ5E/lWAvlzowclEhNh6SpjPQ2CcTbOJnDuLAgCK4BGAsYHg/s1500/mesin%2Bkasir%2Bonline%2Bzinvoice.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+Can be install on offline desktop or Clouds and upload it on your shared hosting for mobile apps integration with android smartphone or iphone.
 
-- Bulleted
-- List
+![Laravel pos Backoffice](https://1.bp.blogspot.com/-uoz9QrY33ag/Xt4CsqYprdI/AAAAAAAAJ44/Pv9yrCoB49ANxXFMiL2SmCyrwQDOhQG2gCK4BGAsYHg/s1000/aplikasi%2Bkasir%2Binvoice%2Bonline%2Bzinvoice.jpg)
 
-1. Numbered
-2. List
+Fast and stable with laravel php artisan serve.
 
-**Bold** and _Italic_ and `Code` text
+----------------------------------------------------------------------------------------------
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## A freatures : 
 
-### Jekyll Themes
+![Free download source code Laravel pos](/img/Screenshot_2020-05-27%20Z%20POS%20Web%20Apps.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/larapos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Login with username and password , by default user name : admin@admin.com , password : 12345678
 
-### Support or Contact
+![Free download source code Laravel pos](/img/Screenshot_2020-05-27%20INVOICE%20ONLINE.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Home page menu.
+
+![Free download source code Laravel pos](/img/Screenshotsa_2020-05-27%20INVOICE%20ONLINE.png)
+
+User databased for create and register user account.
+
+![Free download source code Laravel pos](/img/Screenshot_2020-05-27%20INVOICE%20ONLINE(1).png)
+
+Customer databased for register customer.
+
+![Free download source code Laravel pos](/img/Screenshot_2020-05-27%20INVOICE%20ONLINE(2).png)
+
+Product group and categories.
+
+![Free download source code Laravel pos](/img/Screenshot_2020-05-27%20INVOICE%20ONLINE(3).png)
+
+Master Product databased.
+
+![Free download source code Laravel pos](/img/Screenshot_2020-05-27%20INVOICE%20ONLINE(5).png)
+
+Point of sale transaction.
+
+![Free download source code Laravel pos](/img/Screenshot_2020-05-27%20INVOICE%20ONLINE(7).png)
+
+Print invoice with letter format or you can print with receipt print, you can print with two print out method with you needed.
+
+![Free download source code Laravel pos](/img/Screenshot_2020-05-27%20INVOICE%20ONLINE(6).png)
+
+Report detailed for check transaction, and you can export report detailed.
+
+----------------------------------------------------------------------------------------------
+
+## How to install ?? [Cek video installation →](https://youtu.be/V6xW1EEwLcs)
+
+For first you need download third party apps for using laravel point of sale with invoice system.
+
+XAMPP for apache web server and mysql databased [Download here →](https://www.apachefriends.org/download.html)
+
+Composer  [Download here →](https://getcomposer.org/download/)
+
+Git Bash [Download here →](https://git-scm.com/downloads)
+
+Download and install all third party apps.
+
+Run xampp apache and mysql server , and create new databased rename with lapos
+
+Download this apps, or clone/fork it 
+
+
+----------------------------------------------------------------------------------------------
+
+
+### Option 1: 
+
+git clone https://github.com/mesinkasir/larapos.git
+
+now on your project folder , right click and select git bash here.
+
+and run command : 
+
+composer install && php artisan migrate && php artisan db:seed && php artisan key:generate && php artisan serve
+
+Open localhost:8000 on web browser and get started with laravel pos apps.
+
+now you can view a laravel point of sale with invoice system web apps , just click on get started button and login to apps.
+
+username : admin@admin.com / password : 12345678.
+
+
+----------------------------------------------------------------------------------------------
+
+### Option 2: 
+
+Download and Extract Zip file download to your project folder, open localhost/phpmyadmin and select lapos on phpmyadmin , then click on import databased , upload zinvoice.sql if you wan to use apps include demo data, or select zinvoice - emptydb.sql if you need empty databased.
+
+back to project folder again, and right click then select git bash here.
+
+run command : 
+
+composer install && php artisan key:generate && php artisan serve
+
+Open localhost:8000 on web browser and get started with laravel pos apps.
+
+now you can view a laravel point of sale with invoice system web apps , just click on get started button and login to apps.
+
+username : admin@admin.com / password : 12345678.
+
+
+### Enjoy it and hapy codding, be artisan with laravel php artisan.
+
+need help ??  [contact us →](mailto:creativebydre@gmail.com)
