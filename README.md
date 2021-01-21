@@ -4,6 +4,9 @@
 
 Artisan php apps with point of sale management and invoice features. with [laravel](https://laravel.com)
 
+For full installation and documentation visit here :
+https://www.hockeycomputindo.com/2020/09/aplikasi-toko-gratis-download.html
+
 ![Free laravel point of sale pos download](https://1.bp.blogspot.com/-e-bpBfO1Auo/Xt4CtfTVBQI/AAAAAAAAJ48/devpdRdDYeEmFoupaglHSaQXBbIuEeU0QCK4BGAsYHg/s1000/app%2Btoko%2Bkasir%2Binvoice%2Bonline.jpg)
 
 Complete with modern UI , Free download and Open source code.
@@ -116,5 +119,9 @@ username : admin@admin.com / password : 12345678.
 
 
 ### Enjoy it and hapy codding, be artisan with laravel php artisan.
+
+
+For full installation and documentation visit here :
+https://www.hockeycomputindo.com/2020/09/aplikasi-toko-gratis-download.html
 
 need help ??  [contact us →](mailto:creativebydre@gmail.com)
