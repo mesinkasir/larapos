@@ -131,9 +131,7 @@ need help ??  [contact us →](mailto:creativebydre@gmail.com)
 
 --------------------------------------------------------------------------------------------------------------------
 
-### Buy me a coffee :hearts: ✌🏻
-
-:coffee: :coffee: :coffee: 
+### Buy me a coffee ☕️ ❤️  ✌🏻
 
 with moneygram or western union
 
