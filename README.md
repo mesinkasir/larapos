@@ -1,6 +1,5 @@
 ![Free laravel point of sale pos download](https://1.bp.blogspot.com/-G5gASdD5He8/Xt4Ct4Au9qI/AAAAAAAAJ5A/ab3TbJB9ESIm4gQLWdbyd3ihfnxgAc70gCK4BGAsYHg/s1200/kasir%2Binvoice%2Bonline%2Bweb%2Bapp.jpg)
 
-
 # LARAVEL POS WITH INVOICE Z-INVOICE APPS
 
 Artisan php apps with point of sale management and invoice features. with [laravel](https://laravel.com)
