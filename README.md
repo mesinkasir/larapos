@@ -3,7 +3,6 @@
 
 # LARAVEL POS WITH INVOICE Z-INVOICE APPS
 
-
 Artisan php apps with point of sale management and invoice features. with [laravel](https://laravel.com)
 
 For full installation and documentation visit here :
