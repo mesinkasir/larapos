@@ -118,6 +118,7 @@ now you can view a laravel point of sale with invoice system web apps , just cli
 username : admin@admin.com / password : 12345678.
 
 
+
 ### Enjoy it and hapy codding, be artisan with laravel php artisan.
 
 
