@@ -2,7 +2,12 @@
 
 # LARAVEL POS WITH INVOICE Z-INVOICE APPS
 
+Test Drive a demo [https://axcora.my.id/laravelpos/](https://axcora.my.id/laravelpos/)
+
 Artisan php apps with point of sale management and invoice features. with [laravel](https://laravel.com)
+
+For full installation and documentation visit here :
+[https://www.hockeycomputindo.com/2020/09/aplikasi-toko-gratis-download.html](https://www.hockeycomputindo.com/2020/09/aplikasi-toko-gratis-download.html)
 
 ![Free laravel point of sale pos download](https://1.bp.blogspot.com/-e-bpBfO1Auo/Xt4CtfTVBQI/AAAAAAAAJ48/devpdRdDYeEmFoupaglHSaQXBbIuEeU0QCK4BGAsYHg/s1000/app%2Btoko%2Bkasir%2Binvoice%2Bonline.jpg)
 
@@ -115,6 +120,28 @@ now you can view a laravel point of sale with invoice system web apps , just cli
 username : admin@admin.com / password : 12345678.
 
 
+
 ### Enjoy it and hapy codding, be artisan with laravel php artisan.
 
+
+Test Drive a demo [https://axcora.my.id/laravelpos/](https://axcora.my.id/laravelpos/)
+
+For full installation and documentation visit here :
+[https://www.hockeycomputindo.com/2020/09/aplikasi-toko-gratis-download.html](https://www.hockeycomputindo.com/2020/09/aplikasi-toko-gratis-download.html)
+
 need help ??  [contact us →](mailto:creativebydre@gmail.com)
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
+
+--------------------------------------------------------------------------------------------------------------------
+
