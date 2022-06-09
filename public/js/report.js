@@ -1,0 +1,1 @@
+document.write(`<a href="https://www.hockeycomputindo.com/p/daftar-mesin-kasir-terbaru.html" target="_blank"><img class="img-fluid" width="100%" alt="mesin kasir" src="https://1.bp.blogspot.com/-Yxk57-um1Y4/YA2V_gQftNI/AAAAAAAAMjY/yVml94cWcvgdbB_conbwEpTWdhkCtWZSQCLcBGAsYHQ/s1920/MESIN%2BKASIR%2BTOUCHSCREEN%25281%2529.jpg"/></a>`);

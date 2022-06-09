@@ -25,6 +25,8 @@ Route::get('users', 'UserController@index')->name('users.index');
 Route::delete('users/{user}', 'UserController@destroy')->name('users.destroy');
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/data', 'DataController@index')->name('data');
+Route::get('/office', 'OfficeController@index')->name('office');
 
 Route::resource('products', 'ProductController')->middleware('auth');
 

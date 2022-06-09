@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="container">
-<div class="masthead-followup row m-0">
+<div class="masthead-followup row mt-5">
         <div class="col- 12 col-md-12 p-3 p-md-5">
 
         <h1 class="text-center">
