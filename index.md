@@ -21,6 +21,41 @@ Can be install on offline desktop or Clouds and upload it on your shared hosting
 
 Fast and stable with laravel php artisan serve.
 
+
+----------------------------------------------------------------------------------------------
+
+### Update 
+
+![Laravel point of sale](img/update1.jpg)
+
+New update
+
+![Laravel point of sale](img/update2.jpg)
+
+Update new
+
+![Laravel point of sale](img/update3.png)
+
+Pos Cashier Transaction
+
+------------------------------------
+
+create mysql db or sqlite db
+
+configure db .env
+
+`composer install`
+
+`composer update`
+
+`php artisan migrate`
+
+`php artisan db:seed`
+
+`php artisan serve`
+
+`open localhost:8000`
+
 ----------------------------------------------------------------------------------------------
 
 
@@ -129,7 +164,6 @@ Test Drive a demo [https://axcora.my.id/laravelpos/](https://axcora.my.id/larave
 For full installation and documentation visit here :
 [https://www.hockeycomputindo.com/2020/09/aplikasi-toko-gratis-download.html](https://www.hockeycomputindo.com/2020/09/aplikasi-toko-gratis-download.html)
 
-need help ??  [contact us →](mailto:creativebydre@gmail.com)
 
 
 --------------------------------------------------------------------------------------------------------------------
