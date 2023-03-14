@@ -2,6 +2,9 @@
 
 # LARAVEL POS WITH INVOICE Z-INVOICE APPS
 
+<a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
+
+
 Test Drive a demo [https://axcora.my.id/laravelpos/](https://axcora.my.id/laravelpos/)
 
 Artisan php apps with point of sale management and invoice features. with [laravel](https://laravel.com)
@@ -170,12 +173,8 @@ For full installation and documentation visit here :
 
 ### Buy me a coffee ☕️ ❤️  ✌🏻 
 
-with moneygram or western union
+<a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
 
-+ BANK CENTRAL ASIA
-+ ACCOUNT NO : 0181884109
-+ ACCOUNT NAME : SUCI CHANIFAH
-+ IBAN/SWIFT CODE : CENAIDJA
 
 --------------------------------------------------------------------------------------------------------------------
 
