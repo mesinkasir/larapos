@@ -4,6 +4,8 @@
 
 Free Laravel pos web app - Z-Invoice
 
+<iframe src="https://github.com/sponsors/mesinkasir/button" title="Sponsor mesinkasir" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 ----------------------------------------
 
 ### 💖 Thanks for Sponsor 🤞
