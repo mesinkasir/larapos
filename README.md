@@ -8,13 +8,13 @@ Free Laravel pos web app - Z-Invoice
 
 ### 💖 Thanks for Sponsor 🤞
 
-![[https://avatars.githubusercontent.com/u/22662978?s=70&v=4]([https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/assets/img/open-graph-logo.png?raw=true)](https://github.com/adamdjbrett](https://www.adamdjbrett.com/))
+![https://www.adamdjbrett.com/](https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/assets/img/open-graph-logo.png?raw=true)
 
 ----------------------------------------
 
 ### 🥇 Supporter 👨🏻‍🚀
 
-![https://avatars.githubusercontent.com/u/22662978?s=70&v=4](https://github.com/adamdjbrett)
+![https://github.com/adamdjbrett](https://avatars.githubusercontent.com/u/22662978?s=70&v=4)
 
 -----------------------------------------------------------
 
