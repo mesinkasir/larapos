@@ -2,8 +2,27 @@
 
 # LARAVEL POS WITH INVOICE Z-INVOICE APPS
 
-<a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
+Free Laravel pos web app - Z-Invoice
 
+----------------------------------------
+<style>a {text-decoration:none;}</style>
+
+### 💖 Thanks for Sponsor 🤞
+
+<a href="https://github.com/adamdjbrett"><img src="https://avatars.githubusercontent.com/u/22662978?s=70&v=4"/> Adam Dj Brett </a>
+
+<a href="https://www.adamdjbrett.com/"><img with="120" height="120" src="https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/assets/img/open-graph-logo.png?raw=true"/></a>
+
+
+----------------------------------------
+
+### 💖 Thanks for Sponsor 🤞
+
+<a href="https://github.com/adamdjbrett"><img src="https://avatars.githubusercontent.com/u/22662978?s=70&v=4"/> Adam Dj Brett </a>
+
+<a href="https://www.adamdjbrett.com/"><img with="120" height="120" src="https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/assets/img/open-graph-logo.png?raw=true"/></a>
+
+-----------------------------------------------------------
 
 Test Drive a demo [https://axcora.my.id/laravelpos/](https://axcora.my.id/laravelpos/)
 
@@ -25,7 +44,7 @@ Can be install on offline desktop or Clouds and upload it on your shared hosting
 Fast and stable with laravel php artisan serve.
 
 
-----------------------------------------------------------------------------------------------
+----------------------------------------
 
 ### Update 
 
@@ -158,23 +177,38 @@ now you can view a laravel point of sale with invoice system web apps , just cli
 username : admin@admin.com / password : 12345678.
 
 
-
 ### Enjoy it and hapy codding, be artisan with laravel php artisan.
-
 
 Test Drive a demo [https://axcora.my.id/laravelpos/](https://axcora.my.id/laravelpos/)
 
 For full installation and documentation visit here :
 [https://www.hockeycomputindo.com/2020/09/aplikasi-toko-gratis-download.html](https://www.hockeycomputindo.com/2020/09/aplikasi-toko-gratis-download.html)
 
-
-
---------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------
 
 ### Buy me a coffee ☕️ ❤️  ✌🏻 
 
-<a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
+<button>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN">
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-paypal" viewBox="0 0 16 16">
+  <path d="M14.06 3.713c.12-1.071-.093-1.832-.702-2.526C12.628.356 11.312 0 9.626 0H4.734a.7.7 0 0 0-.691.59L2.005 13.509a.42.42 0 0 0 .415.486h2.756l-.202 1.28a.628.628 0 0 0 .62.726H8.14c.429 0 .793-.31.862-.731l.025-.13.48-3.043.03-.164.001-.007a.35.35 0 0 1 .348-.297h.38c1.266 0 2.425-.256 3.345-.91q.57-.403.993-1.005a4.94 4.94 0 0 0 .88-2.195c.242-1.246.13-2.356-.57-3.154a2.7 2.7 0 0 0-.76-.59l-.094-.061ZM6.543 8.82a.7.7 0 0 1 .321-.079H8.3c2.82 0 5.027-1.144 5.672-4.456l.003-.016q.326.186.548.438c.546.623.679 1.535.45 2.71-.272 1.397-.866 2.307-1.663 2.874-.802.57-1.842.815-3.043.815h-.38a.87.87 0 0 0-.863.734l-.03.164-.48 3.043-.024.13-.001.004a.35.35 0 0 1-.348.296H5.595a.106.106 0 0 1-.105-.123l.208-1.32z"/>
+</svg>
+ aypal</a>
+</button>
 
-
---------------------------------------------------------------------------------------------------------------------
+<button>
+<a href="https://public-files.gumroad.com/n2md63ysek6ns4h2b5abb8liht7z">
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-cup-hot" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M.5 6a.5.5 0 0 0-.488.608l1.652 7.434A2.5 2.5 0 0 0 4.104 16h5.792a2.5 2.5 0 0 0 2.44-1.958l.131-.59a3 3 0 0 0 1.3-5.854l.221-.99A.5.5 0 0 0 13.5 6zM13 12.5a2 2 0 0 1-.316-.025l.867-3.898A2.001 2.001 0 0 1 13 12.5M2.64 13.825 1.123 7h11.754l-1.517 6.825A1.5 1.5 0 0 1 9.896 15H4.104a1.5 1.5 0 0 1-1.464-1.175"/>
+  <path d="m4.4.8-.003.004-.014.019a4 4 0 0 0-.204.31 2 2 0 0 0-.141.267c-.026.06-.034.092-.037.103v.004a.6.6 0 0 0 .091.248c.075.133.178.272.308.445l.01.012c.118.158.26.347.37.543.112.2.22.455.22.745 0 .188-.065.368-.119.494a3 3 0 0 1-.202.388 5 5 0 0 1-.253.382l-.018.025-.005.008-.002.002A.5.5 0 0 1 3.6 4.2l.003-.004.014-.019a4 4 0 0 0 .204-.31 2 2 0 0 0 .141-.267c.026-.06.034-.092.037-.103a.6.6 0 0 0-.09-.252A4 4 0 0 0 3.6 2.8l-.01-.012a5 5 0 0 1-.37-.543A1.53 1.53 0 0 1 3 1.5c0-.188.065-.368.119-.494.059-.138.134-.274.202-.388a6 6 0 0 1 .253-.382l.025-.035A.5.5 0 0 1 4.4.8m3 0-.003.004-.014.019a4 4 0 0 0-.204.31 2 2 0 0 0-.141.267c-.026.06-.034.092-.037.103v.004a.6.6 0 0 0 .091.248c.075.133.178.272.308.445l.01.012c.118.158.26.347.37.543.112.2.22.455.22.745 0 .188-.065.368-.119.494a3 3 0 0 1-.202.388 5 5 0 0 1-.253.382l-.018.025-.005.008-.002.002A.5.5 0 0 1 6.6 4.2l.003-.004.014-.019a4 4 0 0 0 .204-.31 2 2 0 0 0 .141-.267c.026-.06.034-.092.037-.103a.6.6 0 0 0-.09-.252A4 4 0 0 0 6.6 2.8l-.01-.012a5 5 0 0 1-.37-.543A1.53 1.53 0 0 1 6 1.5c0-.188.065-.368.119-.494.059-.138.134-.274.202-.388a6 6 0 0 1 .253-.382l.025-.035A.5.5 0 0 1 7.4.8m3 0-.003.004-.014.019a4 4 0 0 0-.204.31 2 2 0 0 0-.141.267c-.026.06-.034.092-.037.103v.004a.6.6 0 0 0 .091.248c.075.133.178.272.308.445l.01.012c.118.158.26.347.37.543.112.2.22.455.22.745 0 .188-.065.368-.119.494a3 3 0 0 1-.202.388 5 5 0 0 1-.252.382l-.019.025-.005.008-.002.002A.5.5 0 0 1 9.6 4.2l.003-.004.014-.019a4 4 0 0 0 .204-.31 2 2 0 0 0 .141-.267c.026-.06.034-.092.037-.103a.6.6 0 0 0-.09-.252A4 4 0 0 0 9.6 2.8l-.01-.012a5 5 0 0 1-.37-.543A1.53 1.53 0 0 1 9 1.5c0-.188.065-.368.119-.494.059-.138.134-.274.202-.388a6 6 0 0 1 .253-.382l.025-.035A.5.5 0 0 1 10.4.8"/>
+</svg>
+ Gumroad</a> 
+</button> 
+ <a href="https://github.com/sponsors/mesinkasir">
+<button>
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
+  <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8"/>
+</svg> Github Sponsor
+</button>
+</a>
 
