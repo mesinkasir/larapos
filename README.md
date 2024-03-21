@@ -21,7 +21,7 @@ Free Laravel pos web app - Z-Invoice
 
 ### Buy me a coffee ☕️ ❤️  ✌🏻 
 
-[Paypall](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN) [Gumroad](https://public-files.gumroad.com/n2md63ysek6ns4h2b5abb8liht7z) [Github Sponsor](https://github.com/sponsors/mesinkasir)
+[Paypall](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN) [Gumroad](https://creativitaz.gumroad.com/l/coffee) [Github Sponsor](https://github.com/sponsors/mesinkasir)
 
 
 -----------------------------------------------------------
@@ -191,4 +191,4 @@ For full installation and documentation visit here :
 
 ### Buy me a coffee ☕️ ❤️  ✌🏻 
 
-[Paypall](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN) [Gumroad](https://public-files.gumroad.com/n2md63ysek6ns4h2b5abb8liht7z) [Github Sponsor](https://github.com/sponsors/mesinkasir)
+[Paypall](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN) [Gumroad](https://creativitaz.gumroad.com/l/coffee) [Github Sponsor](https://github.com/sponsors/mesinkasir)
