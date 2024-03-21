@@ -5,7 +5,6 @@
 Free Laravel pos web app - Z-Invoice
 
 ----------------------------------------
-<style>a {text-decoration:none;}</style>
 
 ### 💖 Thanks for Sponsor 🤞
 
