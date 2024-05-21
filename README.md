@@ -37,7 +37,7 @@ Complete with modern UI , Free download and Open source code.
 
 ![Mobile Apps](https://1.bp.blogspot.com/-VFexNgv0VpQ/Xt4CurpWzOI/AAAAAAAAJ5E/lWAvlzowclEhNh6SpjPQ2CcTbOJnDuLAgCK4BGAsYHg/s1500/mesin%2Bkasir%2Bonline%2Bzinvoice.jpg)
 
-Can be install on offline desktop or Clouds and upload it on your shared hosting for mobile apps integration with android smartphone or iphone.
+Can be install on offline desktop or Cloud and upload it on your shared hosting for mobile apps integration with android smartphone or iphone.
 
 ![Laravel pos Backoffice](https://1.bp.blogspot.com/-uoz9QrY33ag/Xt4CsqYprdI/AAAAAAAAJ44/Pv9yrCoB49ANxXFMiL2SmCyrwQDOhQG2gCK4BGAsYHg/s1000/aplikasi%2Bkasir%2Binvoice%2Bonline%2Bzinvoice.jpg)
 
@@ -58,7 +58,7 @@ Update new
 
 ![Laravel point of sale](img/update3.png)
 
-Pos Cashier Transaction
+POS Cashier Transaction
 
 ------------------------------------
 
@@ -93,11 +93,11 @@ Home page menu.
 
 ![Free download source code Laravel pos](/img/Screenshotsa_2020-05-27%20INVOICE%20ONLINE.png)
 
-User databased for create and register user account.
+User database for create and register user account.
 
 ![Free download source code Laravel pos](/img/Screenshot_2020-05-27%20INVOICE%20ONLINE(1).png)
 
-Customer databased for register customer.
+Customer database for register customer.
 
 ![Free download source code Laravel pos](/img/Screenshot_2020-05-27%20INVOICE%20ONLINE(2).png)
 
@@ -105,7 +105,7 @@ Product group and categories.
 
 ![Free download source code Laravel pos](/img/Screenshot_2020-05-27%20INVOICE%20ONLINE(3).png)
 
-Master Product databased.
+Master Product database.
 
 ![Free download source code Laravel pos](/img/Screenshot_2020-05-27%20INVOICE%20ONLINE(5).png)
 
@@ -113,11 +113,11 @@ Point of sale transaction.
 
 ![Free download source code Laravel pos](/img/Screenshot_2020-05-27%20INVOICE%20ONLINE(7).png)
 
-Print invoice with letter format or you can print with receipt print, you can print with two print out method with you needed.
+Print invoice with letter format or you can print with receipt print, you can print with two print out method when you need it.
 
 ![Free download source code Laravel pos](/img/Screenshot_2020-05-27%20INVOICE%20ONLINE(6).png)
 
-Report detailed for check transaction, and you can export report detailed.
+Report detailed for check transaction, and you can export detailed report.
 
 ----------------------------------------------------------------------------------------------
 
@@ -133,9 +133,9 @@ Git Bash [Download here →](https://git-scm.com/downloads)
 
 Download and install all third party apps.
 
-Run xampp apache and mysql server , and create new databased rename with lapos
+Run xampp apache and mysql server , and create new database rename with lapos
 
-Download this apps, or clone/fork it 
+Download this app, or clone/fork it 
 
 
 ----------------------------------------------------------------------------------------------
@@ -162,7 +162,7 @@ username : admin@admin.com / password : 12345678.
 
 ### Option 2: 
 
-Download and Extract Zip file download to your project folder, open localhost/phpmyadmin and select lapos on phpmyadmin , then click on import databased , upload zinvoice.sql if you wan to use apps include demo data, or select zinvoice - emptydb.sql if you need empty databased.
+Download and Extract Zip file download to your project folder, open localhost/phpmyadmin and select lapos on phpmyadmin , then click on import database , upload zinvoice.sql if you want to use apps include demo data, or select zinvoice - emptydb.sql if you need empty databased.
 
 back to project folder again, and right click then select git bash here.
 
@@ -177,7 +177,7 @@ now you can view a laravel point of sale with invoice system web apps , just cli
 username : admin@admin.com / password : 12345678.
 
 
-### Enjoy it and hapy codding, be artisan with laravel php artisan.
+### Enjoy it and happy coding, be artisan with laravel php artisan.
 
 Test Drive a demo [https://axcora.my.id/laravelpos/](https://axcora.my.id/laravelpos/)
 
@@ -188,4 +188,4 @@ For full installation and documentation visit here :
 
 ### Buy me a coffee ☕️ ❤️  ✌🏻 
 
-[Paypall](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN) [Gumroad](https://creativitaz.gumroad.com/l/coffee) [Github Sponsor](https://github.com/sponsors/mesinkasir)
+[Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN) [Gumroad](https://creativitaz.gumroad.com/l/coffee) [Github Sponsor](https://github.com/sponsors/mesinkasir)
