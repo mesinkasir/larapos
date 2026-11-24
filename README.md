@@ -1,8 +1,16 @@
 ![Free laravel point of sale pos download](https://1.bp.blogspot.com/-G5gASdD5He8/Xt4Ct4Au9qI/AAAAAAAAJ5A/ab3TbJB9ESIm4gQLWdbyd3ihfnxgAc70gCK4BGAsYHg/s1200/kasir%2Binvoice%2Bonline%2Bweb%2Bapp.jpg)
 
+Explore all projects: https://www.hockeycomputindo.com
+
 # LARAVEL POS WITH INVOICE Z-INVOICE APPS
 
 Free Laravel pos web app - Z-Invoice
+
+Support us:
+
++ GitHub: https://github.com/sponsors/mesinkasir
++ PayPal: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN
++ Gumroad: https://creativitaz.gumroad.com/coffee
 
 ----------------------------------------
 
